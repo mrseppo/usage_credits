@@ -34,6 +34,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "rails", ">= 6.1"
-  spec.add_dependency "pay", "~> 8.3"
+  spec.add_dependency "pay", "~> 11.2"
 
 end
